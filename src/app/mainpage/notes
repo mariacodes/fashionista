@@ -1,0 +1,8 @@
+<div class="container row">
+  <div class="col-md-6">
+    <app-product-list [productToDisplay]="createdProduct"></app-product-list>
+  </div>
+  <div class="col-md-6">
+    <app-product-create (createdProduct)="onCreatedProduct($event)"></app-product-create>
+  </div>
+</div>
