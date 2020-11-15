@@ -14,57 +14,57 @@ To run the front end use `npm run start-client`.
 #### admin
 ```json
 {
-    type: "string",
-    Fname: "string",
-    Lname: "string",
-    pass: "string"
+    "type": "string",
+    "Fname": "string",
+    "Lname": "string",
+    "pass": "string"
 }
 ```
 
 #### products
 ```json
 {
-    name: "string",
-    brand: "string",
-    price: "string",
-    email: "string",
-    availability: "string",
-    fashionimage: "string_url"
+    "name": "string",
+    "brand": "string",
+    "price": "string",
+    "email": "string",
+    "availability": "string",
+    "fashionimage": "string_url"
 }
 ```
 
 #### shoppingcart
 ```json
 {
-    userId: "string",
-    name: "string",
-    brand: "string",
-    price: "string",
-    email: "string",
-    availability: "string",
-    fashionimage: "string_url"
+    "userId": "string",
+    "name": "string",
+    "brand": "string",
+    "price": "string",
+    "email": "string",
+    "availability": "string",
+    "fashionimage": "string_url"
 }
 ```
 
 #### user
 ```json
 {
-    email: "testing",
-    Fname: "test",
-    Lname: "test",
-    pass: "test123"
+    "email": "testing",
+    "Fname": "test",
+    "Lname": "test",
+    "pass": "test123"
 }
 ```
 
 #### wishlist
 ```json
 {
-    userId: "string",
-    name: "string",
-    brand: "string",
-    price: "string",
-    email: "string",
-    availability: "string",
-    fashionimage: "string_url"
+    "userId": "string",
+    "name": "string",
+    "brand": "string",
+    "price": "string",
+    "email": "string",
+    "availability": "string",
+    "fashionimage": "string_url"
 }
 ```
